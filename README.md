@@ -1,2 +1,1 @@
-# shenderson54.github.io
-portfolio 
+This is my portfolio page. I'm a recent graduate from The Grand Circus of Detroit.
